@@ -18,9 +18,8 @@ bio: Computer vision, mobile computing and programmable matter.
 
 # Interests to show in About widget
 Education:
-- 2020.09 ~ 2023.09, 北京理工大学自动化学院 硕士  
-- Computational Linguistics
-- Information Retrieval
+- 2020.09 ~ 2023.06, Automation College, Beijing Institute of Technology (BIT), Master degree    
+- 2016.09 ~ 2020.06, Electric Power College, North China University of Water Resources and Electric Power (NCWU), Bachelor degree
 
 # # Education to show in About widget
 # education:
