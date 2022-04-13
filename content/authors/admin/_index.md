@@ -6,19 +6,19 @@ title: Cao Bin
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+#role: Postgraduate of BIT
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+# - name: Stanford University
+#   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computer vision, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
+Education:
+- 2020.09 ~ 2023.09, 北京理工大学自动化学院 硕士  
 - Computational Linguistics
 - Information Retrieval
 
